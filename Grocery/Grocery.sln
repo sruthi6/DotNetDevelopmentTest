@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocery", "Grocery\Grocery.csproj", "{95D857D0-2D43-4780-B2E0-386811ABEAC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocery.Test", "Grocery.Test\Grocery.Test.csproj", "{AD71BA3B-14A1-4212-A111-7EB16798B609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D857D0-2D43-4780-B2E0-386811ABEAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D857D0-2D43-4780-B2E0-386811ABEAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D857D0-2D43-4780-B2E0-386811ABEAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D857D0-2D43-4780-B2E0-386811ABEAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD71BA3B-14A1-4212-A111-7EB16798B609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD71BA3B-14A1-4212-A111-7EB16798B609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD71BA3B-14A1-4212-A111-7EB16798B609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD71BA3B-14A1-4212-A111-7EB16798B609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
